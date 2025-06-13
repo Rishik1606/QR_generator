@@ -1,1 +1,1 @@
-# QR_generator
+# this is project is done to create QR Generator with theme change feature  
